@@ -1,0 +1,947 @@
+7년간의 사랑 - 金贤政.mp3
+Be What You Wanna Be - Darin.mp3
+i miss you - 青春美少女、罗百吉.mp3
+Lonely - Nana.mp3
+เจอกับตัวเอง...ถึงรู้ - Sara Nusara Poongprasert
+一个深爱的女孩 - 本兮.mp3
+七秒钟的记忆 - 徐良、孙羽幽.mp3
+三妻四妾 - 王媛渊.mp3
+不值得 - 梦飞船.mp3
+不再联系 - 夏天Alex.mp3
+不分手的恋爱 - 汪苏泷.mp3
+不得不爱 - 潘玮柏、弦子.mp3
+不见 - 诗藏旧梦深.mp3
+会呼吸的鸭嘴兽 - 麦乐迪小子、元.mp3
+你怎么舍得我难过 - 黄品源.mp3
+你若成风 - 许嵩、莫诗旎 (1).mp3
+你若成风 - 许嵩、莫诗旎.mp3
+勇气 - 梁静茹.mp3
+北极星的眼泪 - 张栋梁.mp3
+半城烟沙 - 许嵩.mp3
+后会无期 (Remix) - 汪苏泷、徐良.mp3
+后会无期 - 徐良、汪苏泷.mp3
+吻得太逼真 - 张敬轩.mp3
+和平分手 - 徐良、Britneylee小暖.mp3
+哥 只是个传说 - 陈旭.mp3
+坏女孩 - 徐良、小凌.mp3
+埋葬冬天 - 汪苏泷、阿悄.mp3
+外滩十八号 - 男才女貌.mp3
+多余的解释 - 许嵩.mp3
+天使的翅膀 - 安琥.mp3
+如果很痛那就放手吧 - 44Luv.、Miya、48000hz.mp3
+客官不可以 - 徐良、小凌.mp3
+小星星 - 汪苏泷.mp3
+年轮 - 汪苏泷.mp3
+当你孤单你会想起谁 - 张栋梁.mp3
+当前文件.bat
+怎么会 - YKEY.mp3
+我们的纪念 - 李雅微.mp3
+我们都是好孩子 - 王筝.mp3
+断桥残雪 - 许嵩.mp3
+日不落 - 蔡依林.mp3
+月光 - 徐良、阿悄.mp3
+有一种爱叫做放手 - 阿木.mp3
+有何不可 - 许嵩.mp3
+有没有人告诉你 - 陈楚生.mp3
+有点甜 - 汪苏泷、By2.mp3
+棉花糖 - 至上励合.mp3
+死一样的痛过（XIKINIE BOOTLEG） - XIKINIE.mp3
+灰色头像 - 许嵩.mp3
+爱上瘾 - Ausxlll海川、冰加一、玻璃心.mp3
+爱我就跟我走 - 王鹤铮.mp3
+犯贱 - 徐良、阿悄.mp3
+玫瑰花的葬礼 - 许嵩.mp3
+秋天不回来 - 王强.mp3
+素颜 - 许嵩、何曼婷.mp3
+红装 - 徐良、阿悄.mp3
+要我怎么想 - 陈奕楠.mp3
+讨借口 - 苏效音.mp3
+该死的温柔 - 马天宇.mp3
+说永远太遥远 - 诗藏旧梦深.mp3
+贝多芬的悲伤 - 萧风.mp3
+还没有听到 - 诗藏旧梦深.mp3
+迷人的危险 - Dance Flow.mp3
+遥不可及 - 何雨溪.mp3
+那女孩对我说 - 黄义达.mp3
+闹够了没有 - 孙灵乔.mp3
+雅俗共赏 - 许嵩.mp3
+非主流 - 康熙、MISTERK.mp3
+风度 - 汪苏泷.mp3
+불꽃 - 코요태(KYT).mp3
+운명 - Why.mp3
+죽을 만큼 아파서 - MC 몽、Mellow.mp3
+
+
+
+    {
+        name: "非主流时代", // 播放列表名字
+        cover: " ", // 播放列表封面图像
+        creatorName: " ", // 列表创建者名字(暂时没用到，可空)
+        creatorAvatar: " ", // 列表创建者头像(暂时没用到，可空)
+        item: [{
+                id: "",
+                name: "7년간의 사랑",
+                artist: "金贤政",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/7년간의 사랑 - 金贤政.mp3"
+            }, {
+                id: "",
+                name: "Be What You Wanna Be",
+                artist: "Darin",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/Be What You Wanna Be - Darin.mp3"
+            }, {
+                id: "",
+                name: "i miss you",
+                artist: "青春美少女、罗百吉",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/i miss you - 青春美少女、罗百吉.mp3"
+            }, {
+                id: "",
+                name: "Lonely",
+                artist: "Nana",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/Lonely - Nana.mp3"
+            }, {
+                id: "",
+                name: "เจอกับตัวเอง...ถึงรู้",
+                artist: "Nusara",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/เจอกับตัวเอง...ถึงรู้ - Sara Nusara Poongprasert"
+            }, {
+                id: "",
+                name: "一个深爱的女孩",
+                artist: "本兮",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/一个深爱的女孩 - 本兮.mp3"
+            }, {
+                id: "",
+                name: "七秒钟的记忆",
+                artist: "徐良、孙羽幽",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/七秒钟的记忆 - 徐良、孙羽幽.mp3"
+            }, {
+                id: "",
+                name: "三妻四妾",
+                artist: "王媛渊",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/三妻四妾 - 王媛渊.mp3"
+            }, {
+                id: "",
+                name: "不值得",
+                artist: "梦飞船",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/不值得 - 梦飞船.mp3"
+            }, {
+                id: "",
+                name: "不再联系",
+                artist: "夏天Alex",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/不再联系 - 夏天Alex.mp3"
+            }, {
+                id: "",
+                name: "不分手的恋爱",
+                artist: "汪苏泷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/不分手的恋爱 - 汪苏泷.mp3"
+            }, {
+                id: "",
+                name: "不得不爱",
+                artist: "潘玮柏、弦子",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/不得不爱 - 潘玮柏、弦子.mp3"
+            }, {
+                id: "",
+                name: "不见",
+                artist: "诗藏旧梦深",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/不见 - 诗藏旧梦深.mp3"
+            }, {
+                id: "",
+                name: "会呼吸的鸭嘴兽",
+                artist: "麦乐迪小子、元",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/会呼吸的鸭嘴兽 - 麦乐迪小子、元.mp3"
+            }, {
+                id: "",
+                name: "你怎么舍得我难过",
+                artist: "黄品源",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/你怎么舍得我难过 - 黄品源.mp3"
+            }, {
+                id: "",
+                name: "你若成风",
+                artist: "-1",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/你若成风 - 许嵩、莫诗旎 (1).mp3"
+            }, {
+                id: "",
+                name: "你若成风",
+                artist: "许嵩、莫诗旎",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/你若成风 - 许嵩、莫诗旎.mp3"
+            }, {
+                id: "",
+                name: "勇气",
+                artist: "梁静茹",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/勇气 - 梁静茹.mp3"
+            }, {
+                id: "",
+                name: "北极星的眼泪",
+                artist: "张栋梁",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/北极星的眼泪 - 张栋梁.mp3"
+            }, {
+                id: "",
+                name: "半城烟沙",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/半城烟沙 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "后会无期 (Remix)",
+                artist: "汪苏泷、徐良",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/后会无期 (Remix) - 汪苏泷、徐良.mp3"
+            }, {
+                id: "",
+                name: "后会无期",
+                artist: "徐良、汪苏泷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/后会无期 - 徐良、汪苏泷.mp3"
+            }, {
+                id: "",
+                name: "吻得太逼真",
+                artist: "张敬轩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/吻得太逼真 - 张敬轩.mp3"
+            }, {
+                id: "",
+                name: "和平分手",
+                artist: "徐良、Britneylee小暖",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/和平分手 - 徐良、Britneylee小暖.mp3"
+            }, {
+                id: "",
+                name: "哥",
+                artist: "陈旭",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/哥 只是个传说 - 陈旭.mp3"
+            }, {
+                id: "",
+                name: "坏女孩",
+                artist: "徐良、小凌",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/坏女孩 - 徐良、小凌.mp3"
+            }, {
+                id: "",
+                name: "埋葬冬天",
+                artist: "汪苏泷、阿悄",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/埋葬冬天 - 汪苏泷、阿悄.mp3"
+            }, {
+                id: "",
+                name: "外滩十八号",
+                artist: "男才女貌",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/外滩十八号 - 男才女貌.mp3"
+            }, {
+                id: "",
+                name: "多余的解释",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/多余的解释 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "天使的翅膀",
+                artist: "安琥",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/天使的翅膀 - 安琥.mp3"
+            }, {
+                id: "",
+                name: "如果很痛那就放手吧",
+                artist: "44Luv.、Miya、48000hz",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/如果很痛那就放手吧 - 44Luv.、Miya、48000hz.mp3"
+            }, {
+                id: "",
+                name: "客官不可以",
+                artist: "徐良、小凌",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/客官不可以 - 徐良、小凌.mp3"
+            }, {
+                id: "",
+                name: "小星星",
+                artist: "汪苏泷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/小星星 - 汪苏泷.mp3"
+            }, {
+                id: "",
+                name: "年轮",
+                artist: "汪苏泷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/年轮 - 汪苏泷.mp3"
+            }, {
+                id: "",
+                name: "当你孤单你会想起谁",
+                artist: "张栋梁",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/当你孤单你会想起谁 - 张栋梁.mp3"
+            }, {
+                id: "",
+                name: "当前文件",
+                artist: "当前文件",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/当前文件.bat"
+            }, {
+                id: "",
+                name: "怎么会",
+                artist: "YKEY",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/怎么会 - YKEY.mp3"
+            }, {
+                id: "",
+                name: "我们的纪念",
+                artist: "李雅微",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/我们的纪念 - 李雅微.mp3"
+            }, {
+                id: "",
+                name: "我们都是好孩子",
+                artist: "王筝",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/我们都是好孩子 - 王筝.mp3"
+            }, {
+                id: "",
+                name: "断桥残雪",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/断桥残雪 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "日不落",
+                artist: "蔡依林",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/日不落 - 蔡依林.mp3"
+            }, {
+                id: "",
+                name: "月光",
+                artist: "徐良、阿悄",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/月光 - 徐良、阿悄.mp3"
+            }, {
+                id: "",
+                name: "有一种爱叫做放手",
+                artist: "阿木",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/有一种爱叫做放手 - 阿木.mp3"
+            }, {
+                id: "",
+                name: "有何不可",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/有何不可 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "有没有人告诉你",
+                artist: "陈楚生",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/有没有人告诉你 - 陈楚生.mp3"
+            }, {
+                id: "",
+                name: "有点甜",
+                artist: "汪苏泷、By2",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/有点甜 - 汪苏泷、By2.mp3"
+            }, {
+                id: "",
+                name: "棉花糖",
+                artist: "至上励合",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/棉花糖 - 至上励合.mp3"
+            }, {
+                id: "",
+                name: "死一样的痛过（XIKINIE",
+                artist: "XIKINIE",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/死一样的痛过（XIKINIE BOOTLEG） - XIKINIE.mp3"
+            }, {
+                id: "",
+                name: "灰色头像",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/灰色头像 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "爱上瘾",
+                artist: "Ausxlll海川、冰加一、玻璃心",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/爱上瘾 - Ausxlll海川、冰加一、玻璃心.mp3"
+            }, {
+                id: "",
+                name: "爱我就跟我走",
+                artist: "王鹤铮",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/爱我就跟我走 - 王鹤铮.mp3"
+            }, {
+                id: "",
+                name: "犯贱",
+                artist: "徐良、阿悄",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/犯贱 - 徐良、阿悄.mp3"
+            }, {
+                id: "",
+                name: "玫瑰花的葬礼",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/玫瑰花的葬礼 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "秋天不回来",
+                artist: "王强",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/秋天不回来 - 王强.mp3"
+            }, {
+                id: "",
+                name: "素颜",
+                artist: "许嵩、何曼婷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/素颜 - 许嵩、何曼婷.mp3"
+            }, {
+                id: "",
+                name: "红装",
+                artist: "徐良、阿悄",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/红装 - 徐良、阿悄.mp3"
+            }, {
+                id: "",
+                name: "要我怎么想",
+                artist: "陈奕楠",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/要我怎么想 - 陈奕楠.mp3"
+            }, {
+                id: "",
+                name: "讨借口",
+                artist: " 苏效音",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/讨借口 - 苏效音.mp3"
+            }, {
+                id: "",
+                name: "该死的温柔",
+                artist: "马天宇",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/该死的温柔 - 马天宇.mp3"
+            }, {
+                id: "",
+                name: "说永远太遥远",
+                artist: "诗藏旧梦深",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/说永远太遥远 - 诗藏旧梦深.mp3"
+            }, {
+                id: "",
+                name: "贝多芬的悲伤",
+                artist: "萧风",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/贝多芬的悲伤 - 萧风.mp3"
+            }, {
+                id: "",
+                name: "还没有听到",
+                artist: "诗藏旧梦深",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/还没有听到 - 诗藏旧梦深.mp3"
+            }, {
+                id: "",
+                name: "迷人的危险",
+                artist: "Flow",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/迷人的危险 - Dance Flow.mp3"
+            }, {
+                id: "",
+                name: "遥不可及",
+                artist: "何雨溪",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/遥不可及 - 何雨溪.mp3"
+            }, {
+                id: "",
+                name: "那女孩对我说",
+                artist: "黄义达",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/那女孩对我说 - 黄义达.mp3"
+            }, {
+                id: "",
+                name: "闹够了没有",
+                artist: "孙灵乔",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/闹够了没有 - 孙灵乔.mp3"
+            }, {
+                id: "",
+                name: "雅俗共赏",
+                artist: "许嵩",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/雅俗共赏 - 许嵩.mp3"
+            }, {
+                id: "",
+                name: "非主流",
+                artist: "康熙、MISTERK",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/非主流 - 康熙、MISTERK.mp3"
+            }, {
+                id: "",
+                name: "风度",
+                artist: "汪苏泷",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/风度 - 汪苏泷.mp3"
+            }, {
+                id: "",
+                name: "불꽃",
+                artist: "코요태(KYT)",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/불꽃 - 코요태(KYT).mp3"
+            }, {
+                id: "",
+                name: "운명",
+                artist: "Why",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/운명 - Why.mp3"
+            }, {
+                id: "",
+                name: "죽을 만큼 아파서",
+                artist: "몽、Mellow",
+                artist: "",
+                album: "",
+                source: "",
+                url_id: "",
+                pic_id: "",
+                lyric_id: "",
+                pic: "",
+                url: "/fzl/죽을 만큼 아파서 - MC 몽、Mellow.mp3"
+            }
+        ] // 列表中最后一首歌大括号后面不要加逗号]
+    },

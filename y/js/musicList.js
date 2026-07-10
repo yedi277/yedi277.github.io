@@ -1249,7 +1249,7 @@ var musicList = [
             }, {
                 id: "cbd9a8cfaad5912915cec3fca5d3b8b9",
                 name: "黄昏",
-                artist: "周传雄",
+                artist: "传雄",
                 album: "transfer",
                 source: "kugou",
                 url_id: "cbd9a8cfaad5912915cec3fca5d3b8b9",
@@ -1266,14 +1266,14 @@ var musicList = [
         creatorAvatar: " ", // 列表创建者头像(暂时没用到，可空)
         item: [ // 这里面放歌曲
             {
-                id: "76096c059b26ebaa16b482f921a07be0", // 音乐ID
+                id: "2653714443", // 音乐ID
                 name: "晴天", // 音乐名字
                 artist: "周杰伦", // 艺术家名字
                 album: "叶惠美", // 专辑名字
-                source: "kugou", // 音乐来源
-                url_id: "76096c059b26ebaa16b482f921a07be0", // 链接ID
-                pic_id: "76096c059b26ebaa16b482f921a07be0", // 封面ID
-                lyric_id: "76096c059b26ebaa16b482f921a07be0", // 歌词ID
+                source: "netease", // 音乐来源
+                url_id: "2653714443", // 链接ID
+                pic_id: "109951170413587092", // 封面ID
+                lyric_id: "2653714443", // 歌词ID
                 pic: "", // 专辑图片
                 url: "/90/晴天.m4a" // mp3链接（此项建议不填，除非你有该歌曲的比较稳定的外链）
             }, {
